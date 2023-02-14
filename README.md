@@ -1,7 +1,7 @@
 Microservices :
 .Net 5.0 ile Microservice Architecture
 Asynchronous and Aynchronous between Microservices
-API Gateway ( Ocelot Libarary)
+API Gateway ( Ocelot Library)
 RabbitMQ
 Docker & Docker Compose
 IdentityServer4
